@@ -1,0 +1,127 @@
+Species,Plant height,Leaf height,No. of leaves in a cluster,Leaf Width,Leaf length width ratio,Average angle of leaf divergence from vertical.
+Sansevieria trifasciata Hahnii,23,20,20,9,2.222222222,37.21
+Sansevieria trifasciata Hahnii,23,23,20,8,2.875,22
+Sansevieria trifasciata Hahnii,23,22,20,7,3.142857143,15.73
+Sansevieria trifasciata Hahnii,23,20,20,11,1.818181818,29.45
+Sansevieria trifasciata Hahnii,26,26,15,13,2,41.12
+Sansevieria trifasciata Hahnii,26,24,15,14,1.714285714,30.67
+Sansevieria trifasciata Hahnii,26,18,15,12.5,1.44,18
+Sansevieria trifasciata Hahnii,26,19,15,8.6,2.209302326,12.56
+Sansevieria trifasciata Hahnii,22,22,28,9.3,2.365591398,35.28
+Sansevieria trifasciata Hahnii,22,25,28,12.8,1.953125,25.91
+Sansevieria trifasciata Hahnii,22,18,28,7.9,2.278481013,17
+Sansevieria trifasciata Hahnii,22,18,28,9,2,33.09
+Sansevieria trifasciata Hahnii,28,24,18,16,1.5,42.18
+Sansevieria trifasciata Hahnii,28,19,18,12,1.583333333,11.76
+Sansevieria trifasciata Hahnii,28,22,18,11,2,24.39
+Sansevieria trifasciata Hahnii,28,28,18,10,2.8,39.85
+Sansevieria trifasciata Hahnii,19,19,21,8,2.375,19.52
+Sansevieria trifasciata Hahnii,19,17,21,9,1.888888889,31.24
+Sansevieria trifasciata Hahnii,19,16,21,9.3,1.720430108,28.01
+Sansevieria trifasciata Hahnii,19,13,21,8,1.625,14.68
+Sansevieria trifasciata Hahnii,33,24,24,12,2,38.37
+Sansevieria trifasciata Hahnii,33,26,24,14.2,1.830985915,23.05
+Sansevieria trifasciata Hahnii,33,28,24,12,2.333333333,34.79
+Sansevieria trifasciata Hahnii,33,25,24,13,1.923076923,20.45
+Sansevieria trifasciata Hahnii,33,24,16,10,2.4,43.13
+Sansevieria trifasciata Hahnii,33,28,16,11,2.545454545,16.98
+Sansevieria trifasciata Hahnii,33,19,16,8,2.375,36.62
+Sansevieria trifasciata Hahnii,33,17,16,11,1.545454545,27.26
+Sansevieria trifasciata Hahnii,35,12,25,10,1.2,13
+Sansevieria trifasciata Hahnii,35,35,25,9,3.888888889,26.57
+Sansevieria trifasciata Hahnii,35,20,25,8,2.5,44.29
+Sansevieria trifasciata Hahnii,35,15,25,9,1.666666667,32.76
+Sansevieria trifasciata Hahnii,28,14,31,6,2.333333333,40.11
+Sansevieria trifasciata Hahnii,28,15,31,12.5,1.2,21.93
+Sansevieria trifasciata Hahnii,28,18,31,12,1.5,45.04
+Sansevieria trifasciata Hahnii,28,19,31,10,1.9,28.85
+Sansevieria trifasciata Hahnii,26,26,18,14,1.857142857,11.23
+Sansevieria trifasciata Hahnii,26,21,18,10,2.1,15.97
+Sansevieria trifasciata Hahnii,26,20,18,11,1.818181818,34.72
+Sansevieria trifasciata Hahnii,26,23,18,10,2.3,19.35
+Dracaena Trifasciata,85,72,3,6,12,15.8
+Dracaena Trifasciata,85,85,3,6,14.16666667,10.3
+Dracaena Trifasciata,92,90,5,10,9,19.5
+Dracaena Trifasciata,92,68,5,10,6.8,9.2
+Dracaena Trifasciata,92,61,5,9,6.777777778,9.3
+Dracaena Trifasciata,92,92,5,5,18.4,8.7
+Dracaena Trifasciata,92,78,5,6,13,10.8
+Dracaena Trifasciata,118,75,5,10,7.5,12.5
+Dracaena Trifasciata,118,98,5,9,10.88888889,7.3
+Dracaena Trifasciata,118,82,5,7.5,10.93333333,9.4
+Dracaena Trifasciata,118,118,5,6.5,18.15384615,35.8
+Dracaena Trifasciata,40,29,6,7,4.142857143,37.1
+Dracaena Trifasciata,40,34,6,8,4.25,12
+Dracaena Trifasciata,40,26,6,7.4,3.513513514,11.5
+Dracaena Trifasciata,40,15,6,8,1.875,13.2
+Dracaena Trifasciata,23,23,5,5,4.6,14.1
+Dracaena Trifasciata,23,20,5,5,4,10
+Dracaena Trifasciata,23,17,5,7,2.428571429,8.9
+Dracaena Trifasciata,23,17,5,6,2.833333333,11
+Dracaena Trifasciata,87,23.5,6,8.5,2.764705882,12.8
+Dracaena Trifasciata,87,27,6,8.4,3.214285714,10.7
+Dracaena Trifasciata,87,76,6,7,10.85714286,11.9
+Dracaena Trifasciata,87,87,6,7.5,11.6,13.5
+Dracaena Trifasciata,90,90,4,6.5,13.84615385,14.8
+Dracaena Trifasciata,90,65,4,6.5,10,9
+Dracaena Trifasciata,90,63,4,6.9,9.130434783,9.7
+Dracaena Trifasciata,81,90,5,11,8.181818182,13
+Dracaena Trifasciata,81,79,5,9,8.777777778,14.5
+Dracaena Trifasciata,81,20,5,13,1.538461538,10.5
+Dracaena Trifasciata,81,81,5,10,8.1,11.2
+Dracaena Trifasciata,90,81,3,8,10.125,12.2
+Dracaena Trifasciata,90,90,3,9,10,9.8
+Dracaena Trifasciata,90,28,3,9,3.111111111,10.2
+Dracaena Trifasciata,26,17,5,8.5,2,14
+Dracaena Trifasciata,26,25,5,8,3.125,13.8
+Dracaena Trifasciata,26,21,5,6.5,3.230769231,34.5
+Dracaena Trifasciata,26,25,5,7.3,3.424657534,12.3
+Dracaena Trifasciata,26,26,5,9.5,2.736842105,30.1
+Sanseveria Liberica,33,27.5,7,6.2,4.435483871,37.9
+Sanseveria Liberica,33,33,7,7,4.714285714,43.2
+Sanseveria Liberica,33,24,7,5.5,4.363636364,43.5
+Sanseveria Liberica,33,22,7,5,4.4,51.5
+Sanseveria Liberica,35,23,5,5.2,4.423076923,33.8
+Sanseveria Liberica,35,31,5,6.8,4.558823529,76.6
+Sanseveria Liberica,35,35,5,7.4,4.72972973,30.6
+Sanseveria Liberica,35,17,5,4.8,3.541666667,31.1
+Sanseveria Liberica,35.5,22.5,4,5.1,4.411764706,37.4
+Sanseveria Liberica,35.5,25,4,5.7,4.385964912,68.8
+Sanseveria Liberica,35.5,20,4,4.6,4.347826087,37.9
+Sanseveria Liberica,35.5,33,4,7,4.714285714,28.8
+Sanseveria Liberica,32,26,5,5.9,4.406779661,39.7
+Sanseveria Liberica,32,28,5,6.3,4.444444444,42
+Sanseveria Liberica,32,32,5,6.9,4.637681159,45.3
+Sanseveria Liberica,32,29,5,6.4,4.53125,50.1
+Sanseveria Liberica,27,30,5,6.6,4.545454545,34.5
+Sanseveria Liberica,27,34,5,7.3,4.657534247,70.6
+Sanseveria Liberica,27,21.5,5,4.9,4.387755102,32.8
+Sanseveria Liberica,27,23.5,5,5.3,4.433962264,35
+Sanseveria Liberica,27,27,6,6.1,4.426229508,38.2
+Sanseveria Liberica,28,24.5,6,5.6,4.375,65.4
+Sanseveria Liberica,28,26.5,6,6,4.416666667,36.9
+Sanseveria Liberica,28,22.8,6,5,4.56,29.5
+Sanseveria Liberica,28,20.5,7,4.7,4.361702128,40.8
+Sanseveria Liberica,32.5,25.5,7,5.8,4.396551724,41.3
+Sanseveria Liberica,32.5,29.5,7,6.5,4.538461538,46.7
+Sanseveria Liberica,32.5,28.5,7,6.3,4.523809524,49.8
+Sanseveria Liberica,32.5,30.5,4,6.7,4.552238806,35.7
+Sanseveria Liberica,32.5,32.5,4,7,4.642857143,69.2
+Sanseveria Liberica,32.5,31.5,4,6.8,4.632352941,31.7
+Sanseveria Liberica,32.5,26.2,4,6,4.366666667,36.2
+Sanseveria Liberica,30,27.8,5,6.2,4.483870968,39.1
+Sanseveria Liberica,30,24.2,5,5.5,4.4,67
+Sanseveria Liberica,30,21.2,5,4.8,4.416666667,38.5
+Sanseveria Liberica,30,22.2,5,5,4.44,30.3
+Sanseveria Liberica,33,23.2,6,5.2,4.461538462,44.6
+Sanseveria Liberica,33,15,6,4.7,3.191489362,33.8
+Sanseveria Liberica,33,24,6,5.5,4.363636364,76
+Sanseveria Liberica,33,33,6,7,4.714285714,29.5
+Sanseveria Liberica,28,20.5,7,4.7,4.361702128,
+Sanseveria Liberica,,25.5,7,5.8,4.396551724,41.3
+Dracaena Trifasciata,90,90,4,4,22.5,14.8
+Dracaena Trifasciata,90,65,,6.5,10,9
+Sansevieria trifasciata Hahnii,,18,15,12.5,1.44,18
+Sansevieria trifasciata Hahnii,26,19,15,8.6,2.209302326,
+Sansevieria trifasciata Hahnii,,20,18,11,1.818181818,34.72
+Sansevieria trifasciata Hahnii,50,18,15,12.5,1.44,18
